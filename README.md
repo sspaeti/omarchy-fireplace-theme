@@ -18,7 +18,7 @@ Or `SUPER + ALT + SPACE` → Install → Style → Theme → paste the URL.
 Images where the colors were inspired and taken from.
 
 Main image:
-![](backgrounds/fireplace-flames.jpg)
+![](backgrounds/fireplace-flames.webp)
 Second close-up shot:
 ![](backgrounds/fireplace-embers.jpg)
 
